@@ -1,5 +1,7 @@
 # QR Code Component
 
+[![HFd5aRV.md.png](https://iili.io/HFd5aRV.md.png)](https://freeimage.host/i/HFd5aRV)
+
 Example of QR code payment method component.
 
 - Design : [Frontend Mentor](https://www.frontendmentor.io/)
